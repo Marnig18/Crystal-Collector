@@ -1,0 +1,102 @@
+/*font-family: 'Tangerine', cursive;
+font-family: 'Oleo Script', cursive;
+*/
+body{
+	background-image: url(../images/whitediamond.png); 
+}
+
+#container{
+	padding-left: 0px;
+}
+
+h1 {
+	background-color: #5F5449;
+	padding: 30px 20px 30px 30px;
+	color: #FFD3D3;
+	font-family: 'Oleo Script', cursive;
+	font-weight: 700;
+
+}
+
+#headerdiv{
+	padding-left: 0px;
+
+}
+
+#instructions{
+	background-color: #cca7a2;
+	font-family: 'Tangerine', cursive;
+	font-size: 28px;
+	padding-left: 0px;
+	margin-left: 0px;
+	padding-top: 20px;
+}
+
+.instructionsP{
+	padding-left: 20px;
+}
+
+#crystals {
+	width: 50px;
+	height: 50px;
+	margin: 0;
+
+}
+
+#gameBox{
+	background-color: #AA9fb1; 
+	width: 400px;
+	height: 200px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 700;
+}
+
+#winsDiv{
+	background-color: #9B6a6c;
+	width: 100px;
+	height: 200px;
+	margin-left: 20px;
+	padding-right: 20px;
+}
+
+#winP{
+	padding-right: 20px;
+	line-height: 32px;
+	padding-top: 40px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#phrase{
+	margin-bottom: 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#score,
+#number{
+	background-color: #7a918d;
+	width: 400px;
+
+}
+
+#scoreP{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#number{
+	width: 400px;
+	height: 200px;
+	margin-top: 20px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 700;
+}
+
+#button{
+	color: #fff;
+	text-shadow: 0 0 0;
+	box-shadow: none;
+}
+
+
+
