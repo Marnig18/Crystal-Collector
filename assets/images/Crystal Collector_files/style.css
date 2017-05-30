@@ -7,20 +7,14 @@ body{
 
 #container{
 	padding-left: 0px;
-	padding-bottom: 100px;
 }
 
 h1 {
 	background-color: #5F5449;
 	padding: 30px 20px 30px 30px;
 	color: #FFD3D3;
-	width: 50%;
 	font-family: 'Oleo Script', cursive;
 	font-weight: 700;
-	text-align: center;
-	margin-left: 25%;
-	border-radius: 50%;
-	
 
 }
 
@@ -36,7 +30,6 @@ h1 {
 	padding-left: 0px;
 	margin-left: 0px;
 	padding-top: 20px;
-	text-align: center;
 }
 
 .instructionsP{
@@ -51,30 +44,20 @@ h1 {
 }
 
 #gameBox{
-	    background-color: #AA9fb1;
-    width: 500px;
-    height: 400px;
-    font-family: 'Ubuntu', sans-serif;
-    font-weight: 700;
-    color: #fff;
-    margin-left: 40px;
-    text-align: center;
-    font-size: 42px;
-    padding-top: 150px;
-    margin-top: 10px;
+	background-color: #AA9fb1; 
+	width: 400px;
+	height: 200px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 700;
+	color: #fff;
 }
 
 #winsDiv{
-    background-color: #9B6a6c;
-    width: 200;
-    height: 200px;
-    margin-left: 20px;
-    padding-right: 20px;
-    text-align: center;
-    border-radius: 100%;
-    padding-top: 5px;
-    font-size: 20px;
-    margin-top: 10px;
+	background-color: #9B6a6c;
+	width: 100px;
+	height: 200px;
+	margin-left: 20px;
+	padding-right: 20px;
 }
 
 #winP{
@@ -89,15 +72,6 @@ h1 {
 	font-family: 'Ubuntu', sans-serif;
 }
 
-#wins{
-	margin-left: 2px;
-}
-
-
-#score{
-	margin-top: 10px;
-}
-
 #score,
 #number{
 	background-color: #7a918d;
@@ -109,31 +83,20 @@ h1 {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	font-family: 'Ubuntu', sans-serif;
-	font-weight: bold;
 }
 
 #number{
 	width: 400px;
-	height: 340px;
+	height: 200px;
 	margin-top: 20px;
 	font-family: 'Ubuntu', sans-serif;
 	font-weight: 700;
-	margin-left: 15px;
-	font-size: 42px;
-    padding-top: 100px;
-    padding-left: 160px;
 }
 
-#button1,
-#button2,
-#button3,
-#button4
-{
+#button{
 	color: #fff;
 	text-shadow: 0 0 0;
 	box-shadow: none;
-	padding: 20px;
-	margin-top: 5px;
 }
 
 
